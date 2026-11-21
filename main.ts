@@ -1,10 +1,14 @@
 // News-image entry for Saturday 21 November 2026 (Node 22, standard library only).
 // The entry image is entry.png beside this file: a newspaper front page
-// summing up Saturday 21 November 2026 — the Trump-Xi-Putin trilateral
-// summit in Shenzhen, Russia's renewed strikes on Ukraine, the ICJ ruling
-// Myanmar guilty of genocide against the Rohingya, global markets sliding
-// on a tech sell-off, COP31 talks deadlocked, and a 19-and-a-half-year
-// sentence in the Sikh murder-plot case.
+// summing up the FULL day of Saturday 21 November 2026 — the Trump-Xi-Putin
+// trilateral summit in Shenzhen ends with a pledge that "a nuclear war cannot
+// be won and must never be fought" and Trump telling Europe to defund Ukraine,
+// Russia's biggest strike of the war (400+ drones, 110 missiles; eight killed
+// in Kyiv; missiles land in Poland), the ICJ ruling Myanmar guilty of genocide
+// against the Rohingya, global markets sliding into correction (S&P 500 -3.7%,
+// Nikkei -5.1%), the deepening Iran crisis, and COP31 in overtime in Antalya
+// with fossil fuels cut from the draft. Rebuilt in the evening from the full
+// day's news; it replaces the morning version built from overnight news only.
 // The program checks the image against the bounty gate (whole PNG or JPEG,
 // at most 1 MiB, at most 1024 by 1024 pixels) and writes it to
 // /output/entry.png, the path the grader reads.
